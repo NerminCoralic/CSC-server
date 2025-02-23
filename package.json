@@ -14,6 +14,7 @@
     "@strapi/plugin-cloud": "5.7.0",
     "@strapi/plugin-users-permissions": "5.7.0",
     "@strapi/strapi": "5.7.0",
+    "@swc/core": "^1.10.18",
     "better-sqlite3": "^11.8.1",
     "pg": "^8.13.3",
     "react": "^18.0.0",
