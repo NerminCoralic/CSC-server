@@ -7,7 +7,7 @@
     "build": "strapi build",
     "deploy": "strapi deploy",
     "develop": "strapi develop",
-    "start": "strapi start",
+    "start": "railway run yarn strapi develop",
     "strapi": "strapi"
   },
   "dependencies": {
@@ -17,6 +17,7 @@
     "@swc/core": "^1.10.18",
     "better-sqlite3": "^11.8.1",
     "pg": "^8.13.3",
+    "railway": "^2.0.17",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.0.0",
