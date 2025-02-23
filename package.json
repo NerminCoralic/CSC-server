@@ -7,7 +7,7 @@
     "build": "strapi build",
     "deploy": "strapi deploy",
     "develop": "strapi develop",
-    "start": "yarn strapi start",
+    "start": "npm run strapi start",
     "strapi": "strapi"
   },
   "dependencies": {
